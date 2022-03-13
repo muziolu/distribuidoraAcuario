@@ -1,0 +1,29 @@
+body{
+
+}
+.footer-last-section{
+  text-align: center;
+  background-color: rgb(179, 232, 232);
+  padding: 3% 0;
+
+}
+.cuerpo{
+  text-align: justify;
+}
+.video{
+  display: flex;
+  align-self: center;
+  padding-left: 8vw;
+}
+#nombre{
+  color: rgb(30, 36, 66);
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.titulo-de-pagina{
+  font-weight: bold;
+}
+
+.nav-item{
+  font-size: 110%;
+}
