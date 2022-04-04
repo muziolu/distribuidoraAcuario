@@ -27,3 +27,16 @@ body{
 .nav-item{
   font-size: 110%;
 }
+#titulo-destacados{
+  padding-top: 50px;
+}
+.carousel-item{
+  height: auto;
+  padding: inherit;
+}
+.texto-carousel{
+  background: white;
+}
+a .btn{
+  align-self: center;
+}
